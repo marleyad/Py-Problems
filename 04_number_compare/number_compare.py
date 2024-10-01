@@ -16,7 +16,5 @@ def number_compare(a, b):
         return 'Second is greater'
     else:
         return 'Numbers are equal'
-    
-
 
 print(number_compare(10, 10))
